@@ -15,4 +15,6 @@ public class UbDemoConfig {
 
     String a;
 
+    String b;
+
 }
